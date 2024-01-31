@@ -1,0 +1,187 @@
+.body{
+    background: linear-gradient(rgb(5, 239, 239));
+   
+  
+    
+}
+.navibar{
+    justify-content: space-between;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(rgb(0, 255, 238),rgb(239, 109, 187));
+    margin: auto;
+    border: dashed solid blue 20px;
+    
+
+}
+.navibar-right{
+    background: linear-gradient(rgb(27, 85, 27),rgb(233, 91, 30));
+    color: transparent;
+    -webkit-background-clip: text;
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    margin: 20px;
+    align-items: center;
+    font-size: large;
+    
+}
+.navibar-left{
+    padding-left: 20px;
+    height: 5px;
+    width: 5px;
+
+}
+.a{
+    padding: 10px;
+    border: solid mediumslateblue 2px;
+    margin: 10px;
+}
+.logo-image{
+    height: 100px;
+    width: 100px;
+    border: solid red 2px;
+    
+
+}
+.home-img{
+    height: 500px;
+    width:500px;
+}
+.home-right{
+    padding-right: 20px;
+    margin: auto;
+    border: dashed solid mediumseagreen 4px;
+}
+
+
+.home-left{
+    padding-left: 20px;
+    text-align: center;
+    text-decoration: underline;
+    background: linear-gradient(rgb(19, 202, 252),rgb(228, 16, 132));
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    padding: auto;
+    margin: 50px;
+    width: 50vw;
+    padding: auto;
+
+
+}
+.home{
+    
+    height: 80vh;
+    width: 96vw;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    margin: 10px;
+    border: solid rgb(14, 111, 238) 2px;
+}
+.homehead{
+    background: linear-gradient(rgb(19, 202, 252),rgb(228, 16, 132));
+    color: transparent;
+    -webkit-background-clip: text;
+
+}
+.last{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:50px
+
+    
+    
+    
+    
+
+}
+.last-tag{
+    padding: auto;
+    align-items: center;
+    
+    margin: auto;
+    
+.l1{
+    height: 150px;
+    width: 150px;
+    padding: auto;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h{
+    background: linear-gradient(rgb(19, 202, 252),rgb(228, 16, 132));
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 30px;
+
+}
+.last1{
+    border: solid rgb(14, 111, 238) 2px;
+    text-align: center;
+    padding: auto;
+    height: 300px;
+    width: 300px;
+
+   
+
+}
+.last2{
+    border: solid rgb(14, 111, 238) 2px;
+    text-align: center;
+    padding: auto;
+    height: 300px;
+    width: 300px;
+   
+
+}
+.last3{
+    border: solid rgb(14, 111, 238) 2px;
+    text-align: center;
+    padding: auto;
+    height: 300px;
+    width: 300px;
+   
+
+}
+.place{
+    color: rgb(0, 17, 255);
+}
+
+
+
+.headl{
+    font-size: 50px;
+    text-align: center;
+    background: linear-gradient(rgb(19, 202, 252),rgb(228, 16, 132));
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 30px;
+
+}
+}
+.contact{
+    text-align: center;
+    background: linear-gradient(rgb(19, 202, 252),rgb(228, 16, 132));
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.img{
+    height: 30px;
+    width: 30px;
+}
+.logoo{
+    align-items: center;
+    align-content: center;
+    padding: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
